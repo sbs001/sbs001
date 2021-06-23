@@ -25,5 +25,13 @@
 ### - 💻 Mis Proyectos
 
 #### Videogames APP 
+ <p>Fron: ReactJS y ReduxJs - Js, HTML, CSS </p>
+ <p>Back: ExpressJs, Sequelize, PostgresSQL</p>
+ <p>API: Rawg</p>
+ <p>Paginado, detalle, busqueda, creación, ordenamiento por nombe y ratin, filtro por categoria, por juegos propios y juegas de la Api</p>
+
+<img src="https://user-images.githubusercontent.com/50562395/123038131-38829780-d3c6-11eb-9bdd-4cabc5a2ead5.png" alt="" width="400"/> <img src="https://user-images.githubusercontent.com/50562395/123038137-39b3c480-d3c6-11eb-8c61-abb4828f930a.png" alt="" width="400"/> <img src="https://user-images.githubusercontent.com/50562395/123038165-433d2c80-d3c6-11eb-86a8-f5769c557250.png" alt="" width="400"/> <img src="https://user-images.githubusercontent.com/50562395/123038140-3ae4f180-d3c6-11eb-82d2-ecdc7e17dd42.png" alt="" width="400"/> 
+
+
 
 ***
