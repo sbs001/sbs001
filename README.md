@@ -18,7 +18,7 @@
    <p>
       <a href="https://www.linkedin.com/in/sebastian-tassone-full-stack-dev/">
          <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Cesar Contreras LinkedIn Profile"  width="20">
-      </a>https://www.linkedin.com/in/sebastian-tassone-full-stack-dev/
+      </a>https://www.linkedin.com/in/tassone-seb
    </p>
    
 *****
