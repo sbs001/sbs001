@@ -22,12 +22,18 @@
    </p>
    
 *****
-### - 💻 My projects
+## - 💻 My projects
 #### K-Mora Accesorios | E-commerce | Grupal project
-<a href="http://68.183.106.112/">-> visit it!<a/> | <a href="https://github.com/gonza-fl/e-comerce-joyeria">-> Repository<a/>
- 
+<a href="http://68.183.106.112/"> ✅ Visit it!<a/> | <a href="https://github.com/gonza-fl/e-comerce-joyeria"> 📚 Repository</a>
+  
+<img src="https://user-images.githubusercontent.com/50562395/128113206-c3cc5880-8642-4293-a52e-bef19f466742.png"  width=33% /> <img src="https://user-images.githubusercontent.com/50562395/128112723-fcf7bdcc-e31b-404f-9b0f-093ab392997b.png" width=33%  /> <img src="https://user-images.githubusercontent.com/50562395/128113969-851622c4-ea93-4f44-b9a1-72e474c64c05.png" width=33%  />
+</br>
+<img src="https://user-images.githubusercontent.com/50562395/128112753-ac47546d-2283-4a1d-aa2f-970b63d5d97b.png"  width=24% height=400 /> <img src="https://user-images.githubusercontent.com/50562395/128112758-bf6f7662-b5ff-45b5-9e5e-9a6c1c75bed2.png" width=24% height=400  /> <img src="https://user-images.githubusercontent.com/50562395/128112760-0f609ed6-dcdd-4347-bdac-d7f541fdd001.png" width=24% height=400 /> <img src="https://user-images.githubusercontent.com/50562395/128112762-fcb99d0d-9a3c-4019-94c3-3202108c512f.png" width=24% height=400 />
+  
+
+***
 #### Videogames APP 
- <a href="https://github.com/sbs001/VideoGamesApp">-> Repository<a/>
+ <a href="https://github.com/sbs001/VideoGamesApp"> 📚 Repository<a/>
 * Front: ReactJS y ReduxJs - Js, HTML, CSS 
 * Back: ExpressJs, Sequelize, PostgresSQL
 * API: Rawg
@@ -37,7 +43,7 @@ pagination, detail, search, creation, sort by name and rating, filter by categor
 <img src="https://user-images.githubusercontent.com/50562395/123038131-38829780-d3c6-11eb-9bdd-4cabc5a2ead5.png" alt="" width="49%"/> <img src="https://user-images.githubusercontent.com/50562395/123038137-39b3c480-d3c6-11eb-8c61-abb4828f930a.png" alt="" width="49%"/> <img src="https://user-images.githubusercontent.com/50562395/123038165-433d2c80-d3c6-11eb-86a8-f5769c557250.png" alt="" width="49%"/> <img src="https://user-images.githubusercontent.com/50562395/123038140-3ae4f180-d3c6-11eb-82d2-ecdc7e17dd42.png" alt="" width="49%"/> 
 ***
 #### SpotiApp
-<a href="https://sbs001.github.io/SpotiApp-React-TS">-> visit it!<a/> | <a href="https://github.com/sbs001/SpotiApp-React-TS">-> Repository<a/>
+<a href="https://sbs001.github.io/SpotiApp-React-TS"> ✅ Visit it!<a/> | <a href="https://github.com/sbs001/SpotiApp-React-TS"> 📚 Repository<a/>
 * Front: ReactJS con Typescript
 * Back: ExpressJs, Sequelize, PostgresSQL
 * API: Spotify
@@ -47,7 +53,7 @@ pagination, detail, search, creation, sort by name and rating, filter by categor
 
 ***
 #### WeatherApp
-<a href="https://sbs001.github.io/Weather-App--React">-> visit it!<a/> | <a href="https://github.com/sbs001/Weather-App--React">-> Repository<a/>
+<a href="https://sbs001.github.io/Weather-App--React">✅ Visit it!<a/> | <a href="https://github.com/sbs001/Weather-App--React"> 📚 Repository<a/>
  
  * Front: ReactJs, CSS Modules
  * API: Open Weather Map
