@@ -44,7 +44,7 @@ pagination, detail, search, creation, sort by name and rating, filter by categor
 ***
 #### SpotiApp
 <a href="https://sbs001.github.io/SpotiApp-React-TS"> ✅ Visit it!<a/> | <a href="https://github.com/sbs001/SpotiApp-React-TS"> 📚 Repository<a/>
-* Front: ReactJS con Typescript
+* Front: ReactJS con Typescript, Bootstrap
 * Back: ExpressJs, Sequelize, PostgresSQL
 * API: Spotify
 
