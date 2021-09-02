@@ -103,3 +103,14 @@ In this app you can find information about differents movies.
 <img src='https://user-images.githubusercontent.com/50562395/130162669-0b0b914a-9bac-4ccb-b7b1-8500cb67259f.png' width=49%><img src='https://user-images.githubusercontent.com/50562395/130162674-ebb237a3-b55f-4601-b5c4-0872a486a2b0.png' width=49%>
 <img src='https://user-images.githubusercontent.com/50562395/130162679-986ff8b6-5afd-42d7-a891-4f760338ca05.png' width=49%><img src='https://user-images.githubusercontent.com/50562395/130162675-1819dea9-e86b-4f1b-a0e1-b954680a1f20.png' width=49%>
    ****
+# Pokedex (React Native)
+[📚 Repository](https://github.com/sbs001/Pokedex--React-Native)
+   
+In this React Native App you can find all Pokemons, know their detai and search by Pokemon name and number.
+
+* React Native(Expo) - Typescript
+* API: PokeApi
+
+<img src='https://user-images.githubusercontent.com/50562395/131852487-315bff9e-937b-4f94-bb16-dba478a8cd98.gif' width=33% ><img src='https://user-images.githubusercontent.com/50562395/131852903-4cc91c99-c570-4ea4-aa2a-7a4e172dc4c9.gif' width=33% ><img src='https://user-images.githubusercontent.com/50562395/131853750-50b783cc-8dc6-41c0-945d-62e3868ad687.gif' width=33% >
+   
+   ****
