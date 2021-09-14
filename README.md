@@ -6,11 +6,6 @@
 
 ## Full Stack Web Developer 🚀
 
-## Skills 
-<p width='40%' height="100%"align="center"> 
-<div width=50%>
-<img src="https://user-images.githubusercontent.com/50562395/122629406-1ec61500-d093-11eb-8626-06e987d91349.png" alt="" width="170"/> <img src="https://user-images.githubusercontent.com/50562395/122629620-c7c13f80-d094-11eb-8c0c-460b501666d6.png" alt="" width="100"/> <img src="https://user-images.githubusercontent.com/50562395/122629638-f2ab9380-d094-11eb-9688-a61290fe30e2.png" alt="" width="100"/> <img src="https://user-images.githubusercontent.com/50562395/122629651-07882700-d095-11eb-9081-2d350a8ad08a.png" alt="" width="100"/> <img src="https://user-images.githubusercontent.com/50562395/122629673-28507c80-d095-11eb-82b6-579d15f50fb6.png" alt="" width="100"/><img src="https://user-images.githubusercontent.com/50562395/122629744-a876e200-d095-11eb-92f1-d823f38125e0.png" alt="" width="180"/>
-</p>
 
 ****
 ## Contact me !  
